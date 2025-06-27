@@ -1,0 +1,8 @@
+{
+  "token": "MTM4ODEwMTcxODQwNjg1Njg0OA.Gfewas.b8Qz4jQ8A8_DGg_P9PFxAybCfgK1xK_wFowOUU",
+  "trigger_message": "$ltcwallet",
+  "embed_title": "2tco's Litecoin wallet",
+  "embed_balance": "9.02 LTC (≈ $763.09)",
+  "embed_footer": "Try $balances command to see all of your balances.",
+  "embed_thumbnail_url": "https://cryptologos.cc/logos/litecoin-ltc-logo.png"
+}
